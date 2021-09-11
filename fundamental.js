@@ -63,3 +63,5 @@ const student={
 console.log(student['age']);
 console.log(student.subject[2]);
 console.log(student.narks.react); */
+
+
